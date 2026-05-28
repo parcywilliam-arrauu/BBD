@@ -1,0 +1,6 @@
+{
+  "name": "Busy Boss Diet",
+  "description": "An unified operational panel for a premium diet food delivery service, featuring orders, CRM, HRM, finance, inventory tracking, performance analytics, and a dynamic meal customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
